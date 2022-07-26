@@ -8,3 +8,4 @@
 <li> Whitespace trimming</li>
 <li> email reset link </li>
 </ul>
+<p> © 2022. All Rights Reserved By DOUGLAS RONO.</p>
